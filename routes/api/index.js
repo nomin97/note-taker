@@ -3,7 +3,7 @@ const fs = require ("fs");
 const util = require ("util");
 const readFile = util.promisify(fs.readFile);
 const writefile = util.promisify(fs.writeFile);
-// const { v4: uuidv4 } = require('uuid');
+const { v4: uuidv4 } = require('uuid');
 
 const getnotes = () => {
     return readFile ("db/db.json", "utf-8").then(notes => [].concat(JSON.parse(notes)));
