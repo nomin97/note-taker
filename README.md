@@ -15,9 +15,10 @@ npm i to install necessary packages, the npm start to run it on the local host. 
 
 ## Usage
 Per the user story, it will help people take notes and stay organized. 
+Deployed Link https://fast-refuge-69267-c8b3a9b7f788.herokuapp.com/
 
 ## Credits
-
+Help from classwork and tutor Corey.
 
 ## License 
 MIT
