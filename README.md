@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 
 ## Description
 This application uses express to allow the user to take notes. Most of the front end code was in the starter code, so I had to add the necessary backend and connect it to the frontend. json is also used to store and retrieve data. GET, POST, DELETE requests in express allow the user to make posts, update them, and then to delete it. I followed similar structure to some classwork especially for utils but learned that by putting it in the package.json I can make it a simpler application.
